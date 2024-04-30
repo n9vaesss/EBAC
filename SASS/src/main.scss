@@ -1,0 +1,7 @@
+@use './config/reset';
+@use './secoes/produtos';
+@use './config/cores.scss';
+
+body{
+    background-color: cores.$cordeFundo;
+}
